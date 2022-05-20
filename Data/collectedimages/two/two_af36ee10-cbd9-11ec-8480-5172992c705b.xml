@@ -1,0 +1,26 @@
+<annotation>
+	<folder>two</folder>
+	<filename>two_af36ee10-cbd9-11ec-8480-5172992c705b.jpg</filename>
+	<path>/home/hoangha/Desktop/ComputerVision/TensorflowObjectDetection/Tensorflow/workspace/images/collectedimages/two/two_af36ee10-cbd9-11ec-8480-5172992c705b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>203</ymin>
+			<xmax>524</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
